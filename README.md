@@ -7,7 +7,7 @@ You may learn how to use GitHub with Android Studio using the following tutorial
 https://medium.com/code-yoga/how-to-link-android-studio-with-github-312037a13b99
 
 
-#MODULES TO BE INTEGRATED
+# MODULES TO BE INTEGRATED
 
 1) PiedPiper (Admin Module)
 2) Dine In Ordering System (Kitchen Module)
@@ -17,7 +17,7 @@ https://medium.com/code-yoga/how-to-link-android-studio-with-github-312037a13b99
 6) Where's The Food (Update/Cancel Order)
 7) Third Degree Burn (Reporting Module)
 
-#IMPORTANT INSTRUCTIONS
+# IMPORTANT INSTRUCTIONS
 
 The firebase SDK version should be set to 16.0.5 (in build.gradle file), as below:
 
